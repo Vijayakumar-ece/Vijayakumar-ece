@@ -83,8 +83,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vijayakumar-ece&show_icons=true&theme=dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vijayakumar-ece&layout=compact&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-pink.vercel.app/api?username=Vijayakumar-ece&show_icons=true&theme=dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-pink.vercel.app/api/top-langs/?username=Vijayakumar-ece&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
