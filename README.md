@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vijayakumar S 👋</h1>
-<h3 align="center">Final Year ECE Student • Aspiring Embedded Systems & Computer Vision Engineer</h3>
+<h3 align="center">Final Year ECE Student • Aspiring Embedded Systems & Software Engineer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/vijayakumarece">LinkedIn</a> •
